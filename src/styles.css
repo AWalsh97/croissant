@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+p {
+  margin: 5px 120px;
+  font-size: 20px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+a {
+  padding: 5px 20px;
+}
